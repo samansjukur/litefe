@@ -1,4 +1,6 @@
 # LiteFE
+![Screenshot](/images/screenshot.png)
+
 LiteFE - SQLite Frond End
 
 1. CRUD for SQLite
