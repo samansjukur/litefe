@@ -1,5 +1,5 @@
 # LiteFE
-![Screenshot](/images/screenshot.png)
+![Screenshot](/images/demo.gif)
 
 LiteFE - SQLite Frond End
 
