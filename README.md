@@ -7,6 +7,6 @@ LiteFE - SQLite Frond End
 2. Read & write blob type as image (JPEG, PNG, GIF)
 3. Full-text search
 4. Column sorting
-5. Portable (download & run without installer required)
+5. Portable (download & run without installer required) & multi-platform
 
 ![Download prebuilt binaries](https://github.com/setvalue/litefe/releases/latest)
