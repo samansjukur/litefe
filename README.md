@@ -8,3 +8,5 @@ LiteFE - SQLite Frond End
 3. Full-text search
 4. Column sorting
 5. Portable (download & run without installer required)
+
+![Download prebuilt binaries](https://github.com/setvalue/litefe/releases/latest)
