@@ -1,7 +1,7 @@
 # LiteFE
 ![Screenshot](/images/demo.gif)
 
-LiteFE - SQLite Frond End
+LiteFE - SQLite Front End
 
 1. CRUD for SQLite
 2. Read & write blob type as image (JPEG, PNG, GIF)
